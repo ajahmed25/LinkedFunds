@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<ReportingTask xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>NewReportingTask</Name>
+  <Parent />
+  <Previous />
+  <LastModifiedBy>AbdiAhmed</LastModifiedBy>
+  <LastModifiedOn>2026-04-27T14:09:18.3274913+01:00</LastModifiedOn>
+  <CreatedBy>AbdiAhmed</CreatedBy>
+  <CreatedOn>2026-04-27T14:09:10.3079255+01:00</CreatedOn>
+  <Folder>false</Folder>
+  <LastModified>2026-04-27T14:09:18.3274913+01:00</LastModified>
+  <Notes />
+  <OpeningInformation />
+  <IsExpanded>true</IsExpanded>
+  <Type>Indiv</Type>
+  <UseDefaultFolder>true</UseDefaultFolder>
+  <UseDataSource>false</UseDataSource>
+  <DebugInfo>true</DebugInfo>
+  <ReThrowException>true</ReThrowException>
+  <ExceptionWriteMax>20</ExceptionWriteMax>
+  <ExceptionAbortMax>1000</ExceptionAbortMax>
+  <EnableDebugRecordId>false</EnableDebugRecordId>
+  <TableSplitDelimiter>_</TableSplitDelimiter>
+  <WorkerPCs>false</WorkerPCs>
+  <MultiThreaded>false</MultiThreaded>
+  <IsHpcRun>false</IsHpcRun>
+  <ThreadsEvenSplit>true</ThreadsEvenSplit>
+  <ParallelSplits>0</ParallelSplits>
+  <Threads>0</Threads>
+  <SequentialStartUp>false</SequentialStartUp>
+  <ProcessResultsOnMaster>true</ProcessResultsOnMaster>
+  <NumberOfWorkers>0</NumberOfWorkers>
+  <StartUpDelay>0</StartUpDelay>
+  <BackupAfterRun>false</BackupAfterRun>
+  <IncludeResultsInBackup>false</IncludeResultsInBackup>
+  <RevisionIds />
+  <MaxRunDuration>0</MaxRunDuration>
+  <InputOverrides>false</InputOverrides>
+  <ParameterOverrides>false</ParameterOverrides>
+  <ReadFromFileIfAvailable>false</ReadFromFileIfAvailable>
+  <Dynamic>false</Dynamic>
+  <UseDynamicAttributes>false</UseDynamicAttributes>
+  <InternaliseTable>false</InternaliseTable>
+  <ColumnOutputTotals>true</ColumnOutputTotals>
+  <ColumnOutputStart>0</ColumnOutputStart>
+  <ColumnOutputEnd>24</ColumnOutputEnd>
+  <ColumnSumTotals>true</ColumnSumTotals>
+  <ColumnSumStart>0</ColumnSumStart>
+  <ColumnSumEnd>24</ColumnSumEnd>
+  <PerRecordResults>false</PerRecordResults>
+  <SuppressRecordIndices>false</SuppressRecordIndices>
+  <Delimiter>Tab</Delimiter>
+  <MaxTerm>1200</MaxTerm>
+  <CircularReferenceCheck>false</CircularReferenceCheck>
+  <ResetParamDefaults>false</ResetParamDefaults>
+  <SuppressVariableValidation>false</SuppressVariableValidation>
+  <ApplyGrouping>false</ApplyGrouping>
+  <ApplySorting>false</ApplySorting>
+  <ApplyMergeTest>false</ApplyMergeTest>
+  <Threshold>0</Threshold>
+  <ThreshholdType>None</ThreshholdType>
+  <IsDataConversion>false</IsDataConversion>
+  <ResultsPath>C:\Users\AbdiAhmed\AppData\Local\Software Alliance\Mo.net 7.7\Mo.net Model Development Studio\Repositories\LinkedFunds\LinkedFundsProject\Results</ResultsPath>
+  <ResultsFolderUseDefault>true</ResultsFolderUseDefault>
+</ReportingTask>
