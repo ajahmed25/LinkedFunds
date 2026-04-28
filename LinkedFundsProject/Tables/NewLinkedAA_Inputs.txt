@@ -1,0 +1,2 @@
+PolNo	Sex1	AgeEnt1	PremFreq	FundType	SumAssured	PeriodIF	Term	PremInit
+1	0	35	12	Equity	0	0	20	360.00
